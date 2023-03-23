@@ -1,0 +1,12 @@
+[2022-08-04 16:59:43] [error] [/Users/guo/Library/CloudStorage/OneDrive-stu.xjtu.edu.cn/Paper/proceeding/proceeding_code/榆林副本/optimization_year_planning.py - 80 - <module>] 优化主函数执行失败，错误原因为
+[2022-08-04 17:00:53] [error] [/Users/guo/Library/CloudStorage/OneDrive-stu.xjtu.edu.cn/Paper/proceeding/proceeding_code/榆林副本/Model/optimization_planning.py - 532 - OptimizationPlanning] 读取负荷文件中电冷热光参数失败,错误原因为0
+[2022-08-04 17:00:53] [error] [/Users/guo/Library/CloudStorage/OneDrive-stu.xjtu.edu.cn/Paper/proceeding/proceeding_code/榆林副本/optimization_year_planning.py - 80 - <module>] 优化主函数执行失败，错误原因为
+[2022-08-04 20:54:13] [error] [/Users/guo/Library/CloudStorage/OneDrive-stu.xjtu.edu.cn/Paper/proceeding/proceeding_code/榆林副本/optimization_year_planning.py - 93 - <module>] excel输出失败,错误原因为'opex_without_opt_ele'
+[2022-08-04 23:30:04] [error] [/Users/guo/Library/CloudStorage/OneDrive-stu.xjtu.edu.cn/Paper/proceeding/proceeding_code/榆林副本/optimization_year_planning.py - 93 - <module>] excel输出失败,错误原因为float() argument must be a string or a real number, not 'gurobipy.LinExpr'
+[2022-08-05 16:34:00] [error] [/Users/guo/Library/CloudStorage/OneDrive-stu.xjtu.edu.cn/Paper/proceeding/proceeding_code/榆林副本/optimization_year_planning.py - 93 - <module>] excel输出失败,错误原因为'q_fc'
+[2022-08-23 14:33:48] [error] [/Users/guo/Library/CloudStorage/OneDrive-stu.xjtu.edu.cn/Paper/proceeding/proceeding_code/榆林副本/Model/optimization_planning.py - 586 - OptimizationPlanning] 读取负荷文件中电冷热光参数失败,错误原因为float division by zero
+[2022-08-23 14:33:48] [error] [/Users/guo/Library/CloudStorage/OneDrive-stu.xjtu.edu.cn/Paper/proceeding/proceeding_code/榆林副本/optimization_year_planning.py - 80 - <module>] 优化主函数执行失败，错误原因为
+[2022-08-23 14:34:34] [error] [/Users/guo/Library/CloudStorage/OneDrive-stu.xjtu.edu.cn/Paper/proceeding/proceeding_code/榆林副本/Model/optimization_planning.py - 586 - OptimizationPlanning] 读取负荷文件中电冷热光参数失败,错误原因为name 'q_load_old' is not defined
+[2022-08-23 14:34:34] [error] [/Users/guo/Library/CloudStorage/OneDrive-stu.xjtu.edu.cn/Paper/proceeding/proceeding_code/榆林副本/optimization_year_planning.py - 80 - <module>] 优化主函数执行失败，错误原因为
+[2022-08-23 22:35:59] [error] [/Users/guo/Library/CloudStorage/OneDrive-stu.xjtu.edu.cn/Paper/proceeding/proceeding_code/榆林副本/optimization_year_planning.py - 80 - <module>] 优化主函数执行失败，错误原因为division by zero
+[2022-08-23 22:37:06] [error] [/Users/guo/Library/CloudStorage/OneDrive-stu.xjtu.edu.cn/Paper/proceeding/proceeding_code/榆林副本/optimization_year_planning.py - 80 - <module>] 优化主函数执行失败，错误原因为division by zero

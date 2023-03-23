@@ -1,0 +1,26 @@
+stages:
+  - build
+  - test
+
+build-code-job:
+  stage: build
+  tags: 
+    - mac_guo
+  script:
+    - echo "Check the python version, then build some python project files:"
+
+
+test-code-job1:
+  tags: 
+    - mac_guo
+  stage: test
+  script:
+    - echo "If the files are built successfully, test some files with one command:"
+
+test-code-job2:
+  tags: 
+    - mac_guo
+  stage: test
+  script:
+    - echo "If the files are built successfully, test other files with a different command:"
+
